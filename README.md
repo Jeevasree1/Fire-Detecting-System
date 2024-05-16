@@ -1,7 +1,4 @@
-# Fire-Detecting-System
-Certainly! Here are some key points you can include in your README file for your fire detecting system project on GitHub:
 
----
 
 # Fire Detecting System
 
